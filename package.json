@@ -1,12 +1,12 @@
 {
-  "name": "uv-cy-gb-theme",
-  "version": "1.1.1",
+  "name": "@universalviewer/uv-cy-gb-theme",
+  "version": "1.1.2",
   "description": "",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/UniversalViewer/uv-cy-gb-theme.git"
   },
-  "author": "Edward Silverton <ed@edsilv.com> (http://edsilv.com)",
+  "author": "@edsilv",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/UniversalViewer/uv-cy-gb-theme/issues"
